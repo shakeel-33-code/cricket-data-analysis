@@ -117,23 +117,6 @@ Name: Shakeel Ahamed R
 
 LinkedIn: linkedin.com/in/shakeel-ahamed-r-802802222
 
-GitHub: github.com/your-username
-
-📃 License
-This project is open-source and available under the MIT License.
-
-yaml
-Copy
-Edit
-
----
-
-If you tell me your actual GitHub username or repo name, I can tailor the links too. Would you like a minimal version as well for classroom submission?
+GitHub: github.com/shakeel-33-code
 
 
-
-
-
-
-
-Ask ChatGPT
